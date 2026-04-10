@@ -1,6 +1,6 @@
 Michael Clark | @scipraxian
 
-Architecting the infrastructure for the Singularity of Opportunity. Leveraging over 30 years of engineering pedigree to transition complex agentic reasoning from the cloud to accessible, local hardware—democratizing artificial intelligence for the disconnected and the underserved.
+Architecting the infrastructure for the Singularity of Opportunity. Leveraging over 40 years of engineering pedigree to transition complex agentic reasoning from the cloud to accessible, local hardware—democratizing artificial intelligence for the disconnected and the underserved.
 
 "Uplifting others uplifts the whole. In my architecture, I call this 'Inclusion.' My wishes for the betterment of those around me result in the betterment of myself; to build for the periphery is to build for the future of all."
 
