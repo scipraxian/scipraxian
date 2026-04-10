@@ -118,4 +118,4 @@ Applying Game Theory and narrative architecture to optimize engineering team per
 * Product Site: are-self.com
 * Technical Landing Page: scipraxian.org
 
-Current Status: Moving all open-source legacy and ongoing AI research to the Cypraian repository. Pushing toward the mandatory release of the Hippocampus and Engram systems. We assert Singularity is the ultimate solution.
+Current Status: Moving all open-source legacy and ongoing AI research to the Scipraxian repository. Pushing toward the mandatory release of the Hippocampus and Engram systems. We assert Singularity is the ultimate solution.
