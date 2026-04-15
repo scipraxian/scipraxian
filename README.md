@@ -1,16 +1,5 @@
 # @scipraxian
 
-*README for `github.com/scipraxian/scipraxian` — the profile repo
-that renders at the top of the GitHub profile page. First person.
-Are-Self-forward, because this profile only contains Are-Self.*
-
-*Existing GitHub bio (160-char version, unchanged):*
-*"40+ yr engineer. Creator of Are-Self, an open-source,
-neurologically-inspired AI reasoning swarm engine bringing free AI
-to underserved youth."*
-
----
-
 ### Hi. I'm Michael Clark.
 
 Some people know me as **The Scipraxian**. I'm a 40+ year engineer.
