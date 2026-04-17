@@ -1,3 +1,7 @@
+![Scipraxian](assets/scipraxian_banner.png)
+
+<img src="assets/scipraxian_logo_001.png" width="120" align="right" />
+
 # @scipraxian
 
 ### Hi. I'm Michael Clark.
